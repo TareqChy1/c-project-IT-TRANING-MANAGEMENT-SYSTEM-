@@ -1,0 +1,9 @@
+C:\Users\tareq\OneDrive\Desktop\c# project\IT.Entities\IT.DataAccess\bin\Debug\IT.DataAccess.dll
+C:\Users\tareq\OneDrive\Desktop\c# project\IT.Entities\IT.DataAccess\bin\Debug\IT.DataAccess.pdb
+C:\Users\tareq\OneDrive\Desktop\c# project\IT.Entities\IT.DataAccess\bin\Debug\IT.Entities.dll
+C:\Users\tareq\OneDrive\Desktop\c# project\IT.Entities\IT.DataAccess\bin\Debug\IT.Framework.dll
+C:\Users\tareq\OneDrive\Desktop\c# project\IT.Entities\IT.DataAccess\bin\Debug\IT.Entities.pdb
+C:\Users\tareq\OneDrive\Desktop\c# project\IT.Entities\IT.DataAccess\bin\Debug\IT.Framework.pdb
+C:\Users\tareq\OneDrive\Desktop\c# project\IT.Entities\IT.DataAccess\obj\Debug\IT.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\tareq\OneDrive\Desktop\c# project\IT.Entities\IT.DataAccess\obj\Debug\IT.DataAccess.dll
+C:\Users\tareq\OneDrive\Desktop\c# project\IT.Entities\IT.DataAccess\obj\Debug\IT.DataAccess.pdb

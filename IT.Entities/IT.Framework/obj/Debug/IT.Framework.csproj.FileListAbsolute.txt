@@ -1,0 +1,5 @@
+C:\Users\tareq\OneDrive\Desktop\c# project\IT.Entities\IT.Framework\bin\Debug\IT.Framework.dll
+C:\Users\tareq\OneDrive\Desktop\c# project\IT.Entities\IT.Framework\bin\Debug\IT.Framework.pdb
+C:\Users\tareq\OneDrive\Desktop\c# project\IT.Entities\IT.Framework\obj\Debug\IT.Framework.dll
+C:\Users\tareq\OneDrive\Desktop\c# project\IT.Entities\IT.Framework\obj\Debug\IT.Framework.pdb
+C:\Users\tareq\OneDrive\Desktop\c# project\IT.Entities\IT.Framework\obj\Debug\IT.Framework.csprojResolveAssemblyReference.cache
